@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 4c5053480436ac2418adc8a3b50262b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedBacteriaGif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a874e170591242991002d00f194c4
+      internalID: 696706089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBacteriaGif_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 930
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8cdd9f54a851a44bf89067f34d191b
+      internalID: -156725987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedBacteriaGif_83: 627614910
+      RedBacteriaGif_18: -238059253
+      RedBacteriaGif_72: 1572940241
+      RedBacteriaGif_13: -222455677
+      RedBacteriaGif_70: 1434253811
+      RedBacteriaGif_9: -208967000
+      RedBacteriaGif_27: 454564479
+      RedBacteriaGif_41: 266674651
+      RedBacteriaGif_71: -1729465592
+      RedBacteriaGif_51: -1800044287
+      RedBacteriaGif_2: -156725987
+      RedBacteriaGif_23: -1406737556
+      RedBacteriaGif_3: 2057853668
+      RedBacteriaGif_44: -2093177269
+      RedBacteriaGif_19: -1368009206
+      RedBacteriaGif_26: 2096249216
+      RedBacteriaGif_52: -987701960
+      RedBacteriaGif_0: 696706089
+      RedBacteriaGif_56: 788666535
+      RedBacteriaGif_30: -1266110431
+      RedBacteriaGif_49: 492624411
+      RedBacteriaGif_28: 301048757
+      RedBacteriaGif_6: -698799743
+      RedBacteriaGif_7: 1893299761
+      RedBacteriaGif_31: 808322609
+      RedBacteriaGif_10: -533545895
+      RedBacteriaGif_42: -1271287151
+      RedBacteriaGif_61: -1917721119
+      RedBacteriaGif_14: 447520811
+      RedBacteriaGif_39: -1328438203
+      RedBacteriaGif_67: 915892734
+      RedBacteriaGif_66: -1360116314
+      RedBacteriaGif_59: 142891194
+      RedBacteriaGif_1: 96477852
+      RedBacteriaGif_63: 461913101
+      RedBacteriaGif_22: 1030363965
+      RedBacteriaGif_74: -925263517
+      RedBacteriaGif_73: -1518437903
+      RedBacteriaGif_81: -1202762870
+      RedBacteriaGif_46: -1620239723
+      RedBacteriaGif_38: -823011326
+      RedBacteriaGif_34: 1166429326
+      RedBacteriaGif_58: -998192309
+      RedBacteriaGif_11: 906753418
+      RedBacteriaGif_43: 887112480
+      RedBacteriaGif_54: -722966879
+      RedBacteriaGif_16: 56148189
+      RedBacteriaGif_75: 1324327171
+      RedBacteriaGif_21: -2079683714
+      RedBacteriaGif_24: 1280039873
+      RedBacteriaGif_76: 1539367138
+      RedBacteriaGif_84: 849419073
+      RedBacteriaGif_36: 1867132103
+      RedBacteriaGif_48: 930565800
+      RedBacteriaGif_85: -1205822815
+      RedBacteriaGif_68: -1132149789
+      RedBacteriaGif_29: 183527812
+      RedBacteriaGif_25: 437037905
+      RedBacteriaGif_80: 1573010732
+      RedBacteriaGif_4: 1065080146
+      RedBacteriaGif_15: -4383767
+      RedBacteriaGif_17: 1659295607
+      RedBacteriaGif_35: 2104330357
+      RedBacteriaGif_45: 1589999649
+      RedBacteriaGif_60: 1551686852
+      RedBacteriaGif_33: 424642506
+      RedBacteriaGif_78: -116246080
+      RedBacteriaGif_64: 205573540
+      RedBacteriaGif_5: -1998120348
+      RedBacteriaGif_55: 1039479787
+      RedBacteriaGif_79: -1953681966
+      RedBacteriaGif_20: 76216300
+      RedBacteriaGif_62: -2126611886
+      RedBacteriaGif_82: -784308639
+      RedBacteriaGif_53: 1833999749
+      RedBacteriaGif_8: -2051851468
+      RedBacteriaGif_69: -2066602332
+      RedBacteriaGif_12: 1089261820
+      RedBacteriaGif_50: 1836990702
+      RedBacteriaGif_57: -256687447
+      RedBacteriaGif_32: -211017628
+      RedBacteriaGif_77: -1217135938
+      RedBacteriaGif_37: -574994885
+      RedBacteriaGif_40: -1092927046
+      RedBacteriaGif_65: 1055555019
+      RedBacteriaGif_47: -1014615985
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
